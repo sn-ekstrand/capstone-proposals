@@ -1,1 +1,1 @@
-# capstone2
+# Galvanize capstone proposals
